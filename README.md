@@ -1,7 +1,8 @@
 # iyuemiao
 # 约苗 预约 秒杀 协议 算法 抓包 
 
-# 约苗最新版 v3.6.0
+# 约苗最新版 v3.6.0 需要购买请联系
+
 ![QQ截图20230507124500](https://user-images.githubusercontent.com/38068634/236658098-05c84a83-abcd-4e97-b5dd-736e0272494f.png)
 
 
